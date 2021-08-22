@@ -1,0 +1,16 @@
+person:
+  name: lisi
+  boss: true
+  birth: 2010/9/9
+  age: 18
+  pet: {name: 小黑}
+  interests: [跳舞,唱歌]
+  animal:
+    - xiaohgei
+    - xiaobai
+    - haha
+  score: {eng: 20,math: 20}
+  salarys:
+    - 3000
+    - 4000
+  pets: {xiaohei: [{name: dabai},{name: heihei}]}
