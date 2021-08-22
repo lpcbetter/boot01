@@ -23,5 +23,6 @@ public class Application {
         // 判断容器中的配置类里面的内容是否生效
         System.out.println(run.containsBean("user"));
         System.out.println("master merge conflicts test");
+        System.out.println("hot-fix commit");
     }
 }
