@@ -32,4 +32,8 @@ public class Person {
     private Map<String, Object> score;
     private Set<Double> salarys;
     private Map<String, List<Pet>> pets;
+
+    public static void main(String[] args) {
+
+    }
 }
