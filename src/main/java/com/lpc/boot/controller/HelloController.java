@@ -20,4 +20,8 @@ public class HelloController {
         return person;
     }
 
+    @RequestMapping("/hello2")
+    public Person hello2() {
+        return person;
+    }
 }
