@@ -25,5 +25,6 @@ public class Application {
         System.out.println("master merge conflicts test");
         System.out.println("hot-fix commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
