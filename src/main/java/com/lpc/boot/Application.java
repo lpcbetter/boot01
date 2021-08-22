@@ -24,5 +24,6 @@ public class Application {
         System.out.println(run.containsBean("user"));
         System.out.println("master merge conflicts test");
         System.out.println("hot-fix commit");
+        System.out.println("push test");
     }
 }
